@@ -1,6 +1,6 @@
 # html
 Latihan mata kuliah pengembangan web
-<!DOCTYPE html>
+
 <html>
 <body>
 
