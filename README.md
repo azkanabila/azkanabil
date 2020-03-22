@@ -1,10 +1,10 @@
 # html
-Latihan mata kuliah pengembangan web
+CV Azka Nabila
 
 <html>
 <body>
 
-<h1 style="background-color:Orange;">Web Azka</h1>
+<h1 style="background-color:Orange;">Azka Nabila</h1>
 
 
 </body>
