@@ -22,7 +22,7 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
     
       <div class="w3-white w3-text-grey w3-card-4">
         <div class="w3-display-container">
-          <img src="/Camera/20190605_094315.jpg" style="width:100%" alt="Avatar">
+          <img src="![IMG-20180708-WA0158](https://user-images.githubusercontent.com/61218021/77649436-7105ac80-6f9c-11ea-878d-6c2868eb0b73.jpg)" style="width:100%" alt="Avatar">
           <div class="w3-display-bottomleft w3-container w3-text-black">
             <h2>Azka Nabila</h2>
           </div>
